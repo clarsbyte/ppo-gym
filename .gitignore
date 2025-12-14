@@ -1,0 +1,32 @@
+# Documentation
+CHANGES.md
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# PyTorch model checkpoints
+tmp/
+*.pth
+
+# Results and plots
+result/
+*.png
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
