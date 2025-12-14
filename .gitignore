@@ -18,8 +18,8 @@ tmp/
 *.pth
 
 # Results and plots
-result/
-*.png
+
+
 
 # IDE
 .vscode/
